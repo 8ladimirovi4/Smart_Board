@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "P8aKr1CH/f/C5KJiX5zLQI+sgoqWhhDstPHhcT+r+Bw=",
+  "Source": "WebScadaMT.SmartBoard.Host.Server",
+  "BasePath": "_content/WebScadaMT.SmartBoard.Host.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "c:\\MT_Scada_Project\\0_webscadaMT\\web-scada-mt\\SmartBoard\\Host\\webscadamt.smartboard.host.client\\webscadamt.smartboard.host.client.esproj",
+      "Version": 2,
+      "Source": "webscadamt.smartboard.host.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

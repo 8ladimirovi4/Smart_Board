@@ -1,0 +1,6 @@
+@WebScadaMT.SmartBoard.Host.Server_HostAddress = http://localhost:5057
+
+GET {{WebScadaMT.SmartBoard.Host.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

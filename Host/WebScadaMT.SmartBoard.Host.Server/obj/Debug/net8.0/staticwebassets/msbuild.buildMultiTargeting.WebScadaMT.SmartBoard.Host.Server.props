@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebScadaMT.SmartBoard.Host.Server.props" />
+</Project>

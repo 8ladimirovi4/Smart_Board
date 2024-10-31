@@ -1,0 +1,1 @@
+C:\MT_Scada_Project\0_webscadaMT\web-scada-mt\SmartBoard\Host\webscadamt.smartboard.host.client\obj\Debug_Uncache\webscadamt.smartboard.host.client.esproj.CoreCompileInputs.cache

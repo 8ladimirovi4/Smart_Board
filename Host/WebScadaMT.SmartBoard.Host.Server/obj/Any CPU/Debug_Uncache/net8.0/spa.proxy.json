@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "c:\\MT_Scada_Project\\0_webscadaMT\\web-scada-mt\\SmartBoard\\Host\\WebScadaMT.SmartBoard.Host.Server\\..\\webscadamt.smartboard.host.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

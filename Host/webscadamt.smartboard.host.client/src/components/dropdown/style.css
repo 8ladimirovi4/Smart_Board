@@ -1,0 +1,12 @@
+/* @emotion/styled doesn't work with dropdown list*/
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight.p-focus {
+  background: none;
+}
+
+.p-dropdown-panel .p-dropdown-items .p-dropdown-item.p-highlight {
+  background: none;
+}
+
+.p-dropdown:not(.p-disabled).p-focus {
+  box-shadow: none;
+}
